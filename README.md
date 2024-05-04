@@ -11,13 +11,13 @@ This repository contains Dockerfiles and a docker-compose.yml file to build and 
 
 1. Clone this repository:
 ```
-git clone https://github.com/your_username/your_repo.git
+git clone https://github.com/HamzaSusic basic-microservices-docker.git
 
 ```
 
 2. Navigate to the cloned directory:
 ```
-    cd your_repo
+    cd basic-microservices-docker
 ```
 3. Run the following command to start the application along with PostgreSQL:
 ```
